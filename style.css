@@ -1,0 +1,17 @@
+/*
+ Theme Name:   HTML5 Reset Child
+ Theme URI:    https://github.com/veart107/HTML-5-reset-child/blob/master/README.md
+ Description:  HTML5 Reset Child Theme
+ Author:       Veart107
+ Template:     HTML5-Reset-WordPress-Theme
+ Version:      0.1.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         responsive-layout, mobile-first
+ Text Domain:  HTML-5-reset-child
+*/
+
+/**** Add Child Theme Styles Below ********/
+body	{
+	font-family: Calibri, sans-serif;
+}
